@@ -8,4 +8,4 @@ The content covers:
 - exploratory data analysis
 - visualization
 
-The final project analyses school shootings ,especially in regard to gun legislation and state.
+The final project analyses school shootings, especially in regard to gun legislation and state.
