@@ -1,4 +1,4 @@
-# DATA 301 Introduction to Data Science, Spring 2022
+# DATA 301 Introduction to Data Science
 
 This repo consists of class notebooks, labs, and a final project.
 
